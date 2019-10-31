@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+  <h1>基本资料</h1>
+  <b>姓名:</b>严华&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  <b>邮箱:</b>2322043463@qq.com<br>
+  <p></p>
+  <b>性别:</b>男&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp       <b>年龄:</b>22<br>
+  <p></p>
+  <b>手机:</b>15071276973   &nbsp&nbsp&nbsp&nbsp&nbsp  <b>籍贯:</b>湖北宜昌（现居武汉）<br>
+
+  <h1>求职意向</h1>
+  <b>从事职业:</b>Java后台开发工程师
+
+  <h1>教育背景</h1>
+  <b>学校名称:</b>湖北工业大学&nbsp  <b>就读时间:</b>2015.09-2019.06&nbsp  <b>所学专业:</b>自动化&nbsp  <b>学历学位:</b>本科
+
+  <h1>个人技能</h1>
+  1 熟悉Java语言基础, 熟悉面向对象设计原则，熟悉io，多线程，集合等基本框架。<br><p></p>
+  2 掌握基本的SQL查询语句； 熟悉存储过程，视图，触发器等MySQL特性； 了解SQL语句性能调优。<br><p></p>
+  3 熟悉Spring，对设计模式，IOC，AOP等概念有深入认识，有Mybatis和Spring整合的经验；<br><p></p>
+  &nbsp&nbsp&nbsp熟悉SpingMVC架构，有使用SpringMVC作为表示层技术和使用Spring提供的持久化支持进行Web项目开 发的经验；<br><p></p>
+  &nbsp&nbsp&nbsp熟悉SpringBoot的配置以及生成逆向工程； 熟悉RocketMQ，对消费者，生产者等概念有一定了解，熟悉MQ事务消息的执行流程。<br><p></p>
+  4 熟悉Http协议，能抓包分析请求和响应报文。<br><p></p>
+  5 熟悉IDEA，Maven，Git 等开发工具。 <br><p></p>
+  6 了解HTML5，能写简单的Web页面； 了解Vue。<br><p></p>
+  7 熟悉常见的数据结构和算法。 <br><p></p>
+  8 六级541，有一定的英语口语交流能力，能阅读各种英文API文档。<br>
+
+  <h1>工作经验</h1>
+  2018.7-2019.10 深圳市天蓝色软件服务有限公司。 <br><p></p>
+  <b>职位:</b>Java后台开发工程师
+  <h1>项目经验</h1>
+  <b>项目一：基于Dubbo的影院秒杀项目</b> <br><p></p>
+  <b>项目描述：</b>该项目采用迭代式开发，利用微服务把项目拆分成影院服务，订单服务，用户服务等等不同的部分； <br><p></p>
+  利用分布式事务，RocketMQ，Redis等调优。实现了用户登录，选择影院，电影，座位，购票，秒杀 等等一系列功能。 <br><p></p>
+  <b>个人职责：</b>负责影院模块的开发，参与秒杀模块的设计。 <br><p></p>
+  <b>技术要点：</b> <br><p></p>
+  1 使用SpringBoot的最简配置方法，简化了配置； <br><p></p>
+  2 使用JWT做用户验证登录，实现了单点登录； <br><p></p>
+  3 使用Redis存储电影票的库存，实现了高效扣减库存，提高秒杀的响应速度； <br><p></p>
+  4 使用RocketMQ中间件，实现了异步扣减库存，避免Redis的不稳定和消息丢失，还实现了流量削峰，缓解服 务器压力；  <br><p></p>
+  5 使用分布式事务，实现了数据库的一致性，保证缓存中数据和数据库数据的一致。 <br><p></p>
+  <b>项目二：个人项目 基于SSM的购物商城（后台）</b> <br><p></p>
+  <b>项目描述：</b>该项目后台部分集合管理员模块，用户模块，订单模块，购物车模块等等，可以添加修改管理员信 息，查看用户，订单，购物车信息等。 <br><p></p>
+  <b>技术要点：</b> <br><p></p>
+  1 使用SpringMVC自己处理静态资源，实现把静态资源放在任何地方； <br><p></p>
+  2 使用Interceptor做拦截器，实现信息监控，登录权限检查等等； <br><p></p>
+  3 使用SpringMVC自定义异常处理，实现统一的异常处理控制中心； <br><p></p>
+  4 使用MyBatis写SQL语句，便于统一管理和优化，简化了JDBC配置。
+
+  <h1>自我评价</h1>
+  1 做事稳重，对待工作认真，待人真诚，在校曾任校英语俱乐部会长，和老师同学合作顺利愉快；  <br><p></p>
+  2 热爱学习，生活和户外，有自己的学习计划，每月至少读两本书，在家会种花草，给家人做饭， 曾骑行武汉至宜 昌，骑遍武昌大小湖泊； <br><p></p>
+  3 热爱编程，迷恋代码实现的感觉，目标是在工作中学习技术，争取达到更高的职业水准。
+
+</body>
+</html>
